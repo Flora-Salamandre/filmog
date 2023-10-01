@@ -1,4 +1,4 @@
-export default function App() {
+export function Home() {
     return (
         <div>Filmog</div>
     );
