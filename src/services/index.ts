@@ -1,0 +1,1 @@
+export { fetchMovieThumbnails } from "./fetchMovieThumbnails";

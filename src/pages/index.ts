@@ -1,1 +1,1 @@
-export { Home } from "./Home";
+export { Home, loader as homeLoader } from "./Home";
